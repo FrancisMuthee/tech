@@ -1,0 +1,3 @@
+[submodule "mathigu"]
+	path = mathigu
+	url = https://github.com/FrancisMuthee/mathigu.git
